@@ -1,6 +1,7 @@
 # librespot-auth
 
 A simple program for populating a `credentials.json` via Spotify's zeroconf authentication.
+Cloned by me in the case that this repo gets deleted (currently, [spotify-player](https://github.com/aome510/spotify-player) doesn't have an updated way to generate credentials, but this repository is marked as a public archive)
 
 ## Optional Arguments
 
